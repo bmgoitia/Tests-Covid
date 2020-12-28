@@ -1,0 +1,42 @@
+
+body{
+font-family: 'Raleway', sans-serif;
+}
+
+
+.title{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.test{
+	cursor: pointer;
+}
+
+.testImg{
+	margin-bottom: -3px;
+}
+
+
+.interM{
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+}
+
+
+
+
+
+.testInfo p{
+	font-size: 1.7em;
+  padding: 10px 30px 10px 40px;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+
+
+i.fas{
+	font-size: 2em;
+  padding-right: 10px;
+}
+

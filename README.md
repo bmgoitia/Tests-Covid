@@ -1,0 +1,1 @@
+![US election 2020](./img/testCovid.png?raw=true "US 2020 election")
